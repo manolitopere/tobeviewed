@@ -4,9 +4,9 @@
 
 # User guide
 
-- [Installation](installation.md)
-- [Reading books](reading.md)
-- [Creating a book](creating.md)
+- [Installation](uginstallation.md)
+- [Reading books](ugreading.md)
+- [Creating a book](ugcreating.md)
 
 # Reference guide
 
