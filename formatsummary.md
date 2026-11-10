@@ -96,5 +96,5 @@ Below is the markdown source for the `SUMMARY.md` for this guide, with the resul
 of contents as rendered to the left.
 
 ```markdown
-{{#include ../SUMMARY.md}}
+{{#include preformatsummary.md}}
 ```
