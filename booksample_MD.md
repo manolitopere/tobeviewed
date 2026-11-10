@@ -4,9 +4,9 @@
 
 # User guide
 
-- [Installation](guide/installation.md)
-- [Reading books](guide/reading.md)
-- [Creating a book](guide/creating.md)
+- [Installation](guide/src/guide/installation.md)
+- [Reading books](guide/src/guide/reading.md)
+- [Creating a book](guide/src/guide/creating.md)
 
 # Reference guide
 
